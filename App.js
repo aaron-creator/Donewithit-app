@@ -8,6 +8,7 @@ export default function App() {
       <Text>Welcome to React Native.</Text>
       <Text>Let us make an App.</Text>
       <Text>It is great.</Text>
+      <Text>Thanks.</Text>
       <StatusBar style="auto" />
     </View>
   );
