@@ -14,6 +14,12 @@ export default function App() {
       <Text>Welcome to React Native.</Text>
       <Text>This is a good app.</Text>
       <Text>This is fine.</Text>
+      <Text>Welcome to React Native.</Text>
+      <Text>This is a good app.</Text>
+      <Text>This is fine.</Text>
+      <Text>Welcome to React Native.</Text>
+      <Text>This is a good app.</Text>
+      <Text>This is fine.</Text>
       <StatusBar style="auto" />
     </View>
   );
