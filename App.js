@@ -8,9 +8,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Welcome to React Native.</Text>
-      <Text>Good app</Text>
-      <Text>React native is good.</Text>
-      <Text>thank you.</Text>
       <StatusBar style="auto" />
     </View>
   );
